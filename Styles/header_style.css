@@ -1,0 +1,48 @@
+.header{
+    background-image: url("../IMG/home-hero-background-scaled.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color:wheat;
+}
+
+.text{
+    color:#EFEFEF;
+}
+
+.header-buttom{
+    margin-top: 4em;
+}
+
+.font-style{
+    font-size: 1.4em;
+}
+
+.lable-1{
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+.lable-2{
+    font-size: 3.3em;
+    font-weight: bold;
+}
+
+.info{
+    font-size: 1.5em;
+    line-height: 1.7;
+}
+
+.name{
+    font-size: 1.5em;
+    line-height: 1.7;
+}
+
+.btn{
+    font-size: 1.4em;
+    color:#EFEFEF;
+}
+
+.filter{
+    background-color: #000000a8;
+}

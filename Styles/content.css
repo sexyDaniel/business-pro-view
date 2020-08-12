@@ -1,0 +1,44 @@
+
+
+.form-content{
+    padding-top: 3.5em;
+    background-color: #edf7ff;
+    padding-bottom: 3.5em;
+}
+
+.form-example{
+    background-color: wheat;
+    border-radius: 5px;
+}
+
+.form-example p{
+    padding: 8px 8px 8px 8px;
+}
+
+.caption{
+    color:  #2d2c29;
+    font-size: 3em;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: -1rem;
+}
+
+.year{
+    font-size: 8em;
+    font-weight: bold;
+    text-align: center;
+    color:  #a3e42d;
+    margin-bottom: -1rem;
+}
+
+.qwe{
+    position: relative;
+    display: inline-block;
+}
+
+.year-container{
+    left: 25%;
+    top: 2%;
+    position: absolute;
+    align-items: center;
+}
